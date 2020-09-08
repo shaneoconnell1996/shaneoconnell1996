@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shane O'Connell (he / him). I'm a (nearly) 2nd year PhD student in NUI Galway studying computational neuroscience and genetics. I'm a member of the first cohort of the [Genomics Data Science Centre for Research Training](genomicsdatascience.ie) and this is my Github page!  
+My name is Shane O'Connell (he / him). I'm a (nearly) 2nd year PhD student in NUI Galway studying computational neuroscience and genetics. I'm a member of the first cohort of the [Genomics Data Science Centre for Research Training](https://genomicsdatascience.ie/) and this is my Github page!  
 
 #### Current work
 
